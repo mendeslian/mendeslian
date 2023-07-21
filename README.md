@@ -2,7 +2,7 @@
 
 ### Hi, everyone!  👋
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=2000&color=F7F7F7&center=true&vCenter=true&width=435&lines=You're+welcome!;My+name+is+Lian;I'm+20+years+old;I+study+Information+Systems+at+CEFET-RJ;I'm+interested+in+Full+Stack+programming;Enjoy+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=2000&color=F7F7F7&center=true&vCenter=true&width=435&lines=You're+welcome!;My+name+is+Lian;I'm+20+years+old;I+study+Information+Systems+at+CEFET-RJ;I'm+interested+in+Full+Stack+programming;Enjoy+my+profile)](https://git.io/typing-svg)
 
   <div align="center">  
   
