@@ -25,9 +25,9 @@ I'm Full Stack Software Developer at Sem Processo and I have one and a half year
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; align-items: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/lian-mendes-825295210/" target="_blank" style="text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="40" width="40" style="vertical-align: middle;"/>
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="30" width="40" style="vertical-align: middle;"/>
   </a>
-  <a href="mailto:nailptm@gmail.com?subject=Contato%20via%20GitHub&body=Olá, gostaria de entrar em contato!" style="text-decoration: none;">
+  <a href="mailto:nailptm@gmail.com?subject=Contato%20via%20GitHub&body=Olá, gostaria de entrar em contato!" target="_blank" style="text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40" style="vertical-align: middle;"/>
   </a>
 </p>
