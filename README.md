@@ -1,38 +1,67 @@
-<div align = center>
+Português
 
-### Hi, everyone!  👋
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=2000&color=F7F7F7&center=true&vCenter=true&width=435&lines=You're+welcome!;My+name+is+Lian;I'm+20+years+old;I+study+Information+Systems+at+CEFET-RJ;I'm+interested+in+Full+Stack+programming;Enjoy+my+profile)](https://git.io/typing-svg)
+<h2 align="left">Olá, eu sou Lian 👋</h2><br />
 
-  <div align="center">  
-  
-  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendeslian&layout=compact&hide_border=true&title_color=81749c&text_color=ffffff&bg_color=0d1117" />
-</div>
+Meu nome é Lian Mendes, eu tenho 22 anos e nasci em Brasil na capital do Rio de Janeiro. <br />
+Adoro o desenvolvimento de inovações e ideias que promovem grandes mudanças e impactam positivamente as pessoas e o mundo. <br />
 
-### Main Skills 💻
+💼 Quem é Lian Mendes como Desenvolvedor de Software?
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Lian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lian-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+Sou Desenvolvedor de Software Full Stack no Sem Processo e tenho um ano e meio de experiência com JavaScript, framework React e Node. Sou estudante de Sistemas de Informação no Cefet-RJ. Trabalhei com projetos como: Assistente jurídico feito com integrações com Inteligência Artificial e atualmente estou trabalhando em um ERP jurídico. <br /><br />
 
-</div>
-  
-  ##
-  
- <div>
+English
 
- <a href="https://www.linkedin.com/in/mendeslian/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
- 
-</div>
-  
-  
-  ##
+<h2 align="left">Hi, I'm Lian 👋</h2><br />
 
-- 🔭 I'm interested in the Full Stack programming area
-- 📖 I'm currently learning Python, JavaScript and Java
-- **📫 Email:** `nailptm@gmail.com`
+My name is Lian Mendes, I'm 22 years old and I was born in Brazil in the capital of Rio de Janeiro. <br />
+I love innovation development and ideas that promote great changes and positively impact people and the world.. <br />
 
+💼 Who is Lian Mendes as Software Developer?
+
+I'm Full Stack Software Developer at Sem Processo and I have one and a half years of experience with JavaScript and frameworks like React and Node. I'm Information Systems student at Cefet-RJ. I worked in projects like: Legal Assistent made with AI integration and I’m currently working in a legal ERP.
+
+<br/>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/lian-mendes-825295210/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" style="vertical-align: middle;"/>
+  </a>
+  <a href="mailto:nailptm@gmail.com?subject=Contato%20via%20GitHub&body=Olá, gostaria de entrar em contato!">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40" style="vertical-align: middle;"/>
+  </a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3><br />
+<p align="left"> 
+<a href="https://www.javascript.com" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="40" height="40"/> 
+</a> 
+<a href="https://react.dev" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> 
+</a> 
+<a href="https://nodejs.org" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/> 
+</a> 
+<a href="https://expressjs.com" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> 
+</a> 
+<a href="https://nextjs.org" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="next" width="40" height="40"/> 
+</a> 
+<a href="https://www.mongodb.com" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> 
+</a> 
+<a href="https://www.postgresql.org" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="40" height="40"/> 
+</a> 
+</a> 
+<a href="https://github.com" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" width="40" height="40"/> 
+</a> 
+<a href="https://postman.com" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+</a>
+<a href="https://www.python.org" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
+</a>
