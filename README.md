@@ -2,7 +2,7 @@ Português
 
 <h2 align="left">Olá, eu sou Lian 👋</h2><br />
 
-Meu nome é Lian Mendes, eu tenho 22 anos e nasci em Brasil na capital do Rio de Janeiro. <br />
+Meu nome é Lian Mendes, eu tenho 21 anos e nasci em Brasil na capital do Rio de Janeiro. <br />
 Adoro o desenvolvimento de inovações e ideias que promovem grandes mudanças e impactam positivamente as pessoas e o mundo. <br />
 
 💼 Quem é Lian Mendes como Desenvolvedor de Software?
@@ -13,7 +13,7 @@ English
 
 <h2 align="left">Hi, I'm Lian 👋</h2><br />
 
-My name is Lian Mendes, I'm 22 years old and I was born in Brazil in the capital of Rio de Janeiro. <br />
+My name is Lian Mendes, I'm 21 years old and I was born in Brazil in the capital of Rio de Janeiro. <br />
 I love innovation development and ideas that promote great changes and positively impact people and the world.. <br />
 
 💼 Who is Lian Mendes as Software Developer?
