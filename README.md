@@ -23,7 +23,7 @@ I'm Full Stack Software Developer at Sem Processo and I have one and a half year
 <br/>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="display: flex; align-items: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/lian-mendes-825295210/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="30" width="40" style="vertical-align: middle;"/>
   </a>
@@ -33,7 +33,7 @@ I'm Full Stack Software Developer at Sem Processo and I have one and a half year
 </p>
 
 <h3 align="left">Languages and Tools:</h3><br />
-<p align="left"> 
+<p align="left" style="display: flex; align-items: center; gap: 10px;"> 
 <a href="https://www.javascript.com" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="40" height="40"/> 
 </a> 
