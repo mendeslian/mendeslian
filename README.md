@@ -33,7 +33,7 @@ I'm Full Stack Software Developer at Sem Processo and I have one and a half year
 </p>
 
 <h3 align="left">Languages and Tools:</h3><br />
-<p align="left" style="display: flex; align-items: center; gap: 10px;"> 
+<p align="left" style="display: flex; align-items: center; gap: 20px"> 
 <a href="https://www.javascript.com" target="_blank" style="text-decoration: none;"> 
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="40" height="40"/> 
 </a>
