@@ -7,7 +7,7 @@ Adoro o desenvolvimento de inovações e ideias que promovem grandes mudanças e
 
 💼 Quem é Lian Mendes como Desenvolvedor de Software?
 
-Sou Desenvolvedor de Software Full Stack no Sem Processo e tenho um ano e meio de experiência com JavaScript, framework React e Node. Sou estudante de Sistemas de Informação no Cefet-RJ. Trabalhei com projetos como: Assistente jurídico feito com integrações com Inteligência Artificial e atualmente estou trabalhando em um ERP jurídico. <br /><br />
+Sou Desenvolvedor de Software Full Stack e tenho um ano e meio de experiência com JavaScript, framework React e Node. Sou estudante de Sistemas de Informação no Cefet-RJ. Trabalhei com projetos como: Assistente jurídico feito com integrações com Inteligência Artificial e atualmente estou trabalhando em um ERP jurídico. <br /><br />
 
 English
 
@@ -18,7 +18,7 @@ I love innovation development and ideas that promote great changes and positivel
 
 💼 Who is Lian Mendes as Software Developer?
 
-I'm Full Stack Software Developer at Sem Processo and I have one and a half years of experience with JavaScript and frameworks like React and Node. I'm Information Systems student at Cefet-RJ. I worked in projects like: Legal Assistent made with AI integration and I’m currently working in a legal ERP.
+I'm Full Stack Software Developer and I have one and a half years of experience with JavaScript and frameworks like React and Node. I'm Information Systems student at Cefet-RJ. I worked in projects like: Legal Assistent made with AI integration and I’m currently working in a legal ERP.
 
 <br/>
 
