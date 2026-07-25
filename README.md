@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Lian Mendes 👋</h1>
 
 <p align="center">
-  <em>Full Stack Developer • Systems Information at CEFET/RJ</em>
+  <em>Software Engineer at @BTG - Systems Information at @CEFET</em>
 </p>
 
 <p align="center">
